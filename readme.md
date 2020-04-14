@@ -1,4 +1,4 @@
-# Flywight Demo
+# Flyweight Demo
 This is a demo of the flyweight design pattern written in python.
 
 ## How to use
@@ -9,3 +9,11 @@ pipenv install
 pipenv shell
 psrecord "python without-flywight.py" --plot withoutfw.png
 psrecord "python with-flywight.py" --plot withfw.png
+```
+
+## Results
+Without Flyweight
+![Without flyweight](withoutfw.png)
+
+With Flyweight
+![Without flyweight](withfw.png)
