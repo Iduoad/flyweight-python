@@ -12,8 +12,11 @@ psrecord "python with-flywight.py" --plot withfw.png
 ```
 
 ## Results
-Without Flyweight
+
+Without Flyweight:
+
 ![Without flyweight](withoutfw.png)
 
-With Flyweight
+With Flyweight:
+
 ![Without flyweight](withfw.png)
